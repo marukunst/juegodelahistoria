@@ -9,8 +9,8 @@
     <p class="lead">Un juego educativo para practicar contenidos teóricos de manera dinámica e innovadora.</p>
     <p>Registrate para empezar a jugar</p>
     <hr class="my-4">
-    <a class="btn btn-primary btn-lg" href="login.php" role="button">Iniciar Sesión</a>
-    <a class="btn btn-primary btn-lg" href="register.php" role="button">Registrarse</a>
+    <a class="btn btn-primary btn-lg" href="/login" role="button">Iniciar Sesión</a>
+    <a class="btn btn-primary btn-lg" href="/register" role="button">Registrarse</a>
   </div>
 </div>
 @endsection
